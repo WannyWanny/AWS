@@ -1,2 +1,2 @@
 # AWS
-AWS Cloud 공부
+AWS Professional을 따는 그날까지.
