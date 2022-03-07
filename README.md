@@ -1,6 +1,9 @@
 # AWS
 AWS 전문가가 되는 그날까지
 
+[공식 Document]
++ [Amazon VPC란 무엇인가?](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/what-is-amazon-vpc.html)
+
 [자격증]
 + AWS Solutions Architect(Associate) - 준비중
 
